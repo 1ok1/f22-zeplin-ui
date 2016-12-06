@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="bottom_nav">#2D3340</color>
+    <color name="bottom_nav_selected">#181C26</color>
+    <color name="bottom_nav_un_selected">#202431</color>
+
+    <color name="bottom_nav_btn_selected">#00DFB8</color>
+    <color name="bottom_nav_btn_unselected">#9CA5B9</color>
+
+    <color name="profile_detail_content">#181c26</color>
+    <color name="profile_detail_header">#9ca5b9</color>
+
+    <color name="white">#ffffff</color>
+    <color name="name">#181c26</color>
+    <color name="text_desc">#202431</color>
+    <color name="tab_selected">#00dfb8</color>
+    <color name="tab_unselected">#f7f8fb</color>
+    <color name="image_un_selected">#9ca5b9</color>
+    <color name="border_color">#dcdfe7</color>
+</resources>
